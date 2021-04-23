@@ -1,0 +1,300 @@
+[
+    {
+        "name": "Critical Volumes",
+        "release year": 1984,
+        "origin": "Switzerland"
+    },
+    {
+        "name": "EcoScarcity 1990",
+        "synonyms": [
+            "Eco-Factors 1990"
+        ],
+        "release year": 1990,
+        "origin": "Switzerland"
+    },
+    {
+        "name": "CML 1992",
+        "release year": 1992,
+        "origin": "Netherlands"
+    },
+    {
+        "name": "EPS 1993",
+        "release year": 1993,
+        "origin": "Sweden"
+    },
+    {
+        "name": "Eco-Indicator 95",
+        "release year": 1995,
+        "origin": "Netherlands"
+    },
+    {
+        "name": "Nordic Guide",
+        "release year": 1995,
+        "parents": [
+            "CML 1992"
+        ]
+    },
+    {
+        "name": "EPS 1996",
+        "release year": 1996,
+        "origin": "Sweden",
+        "parents": [
+            "EPS 1993"
+        ]
+    },
+    {
+        "name": "EDIP 1997",
+        "release year": 1997,
+        "origin": "Denmark",
+        "publications": [
+            "Hauschild and Wenzel (1998)"
+        ]
+    },
+    {
+        "name": "EcoScarcity 1997",
+        "synonyms": [
+            "Eco-Factors 1997"
+        ],
+        "release year": 1997,
+        "origin": "Switzerland",
+        "parents": [
+            "EcoScarcity 1990"
+        ]
+    },
+    {
+        "name": "ExternE 1997",
+        "release year": 1997
+    },
+    {
+        "name": "Eco-Indicator 99",
+        "release year": 2000,
+        "origin": "Netherlands",
+        "publications": [
+            "Goedkoop and Spriensma (2000)"
+        ],
+        "parents": [
+            "Eco-Indicator 95"
+        ]
+    },
+    {
+        "name": "EPS 2000",
+        "release year": 2000,
+        "origin": "Sweden",
+        "publications": [
+            "Steen (1999)"
+        ],
+        "parents": [
+            "EPS 1996"
+        ]
+    },
+    {
+        "name": "CML 2001",
+        "release year": 2002,
+        "origin": "Netherlands",
+        "publications": [
+            "Guinée et al. (2002)",
+            "Huijbregts et al. (2003)"
+        ],
+        "parents": [
+            "Nordic Guide"
+        ]
+    },
+    {
+        "name": "IMPACT 2002+",
+        "release year": 2002,
+        "origin": "Switzerland",
+        "publications": [
+            "Jolliet et al. (2003)"
+        ],
+        "parents": [
+            "CML 2001",
+            "Eco-Indicator 99"
+        ]
+    },
+    {
+        "name": "TRACI",
+        "release year": 2003,
+        "origin": "USA"
+    },
+    {
+        "name": "Jepix",
+        "release year": 2003,
+        "origin": "Japan"
+    },
+    {
+        "name": "LIME",
+        "release year": 2003,
+        "origin": "Japan",
+        "parents": [
+            "CML 2001",
+            "Eco-Indicator 99",
+            "EPS 2000",
+            "ExternE 1997"
+        ]
+    },
+    {
+        "name": "EDIP 2003",
+        "release year": 2003,
+        "origin": "Denmark",
+        "parents": [
+            "EDIP 1997"
+        ]
+    },
+    {
+        "name": "ExternE 2005",
+        "release year": 2005,
+        "website": "http://www.externe.info",
+        "parents": [
+            "ExternE 1997"
+        ]
+    },
+    {
+        "name": "Stepwise 2006",
+        "release year": 2006,
+        "origin": "Denmark",
+        "parents": [
+            "IMPACT 2002+",
+            "EDIP 2003",
+            "Jepix"
+        ]
+    },
+    {
+        "name": "EcoScarcity 2006",
+        "synonyms": [
+            "Eco-Factors 2006"
+        ],
+        "release year": 2006,
+        "origin": "Switzerland",
+        "parents": [
+            "EcoScarcity 1997"
+        ]
+    },
+    {
+        "name": "LUCAS",
+        "release year": 2007,
+        "origin": "Canada",
+        "publications": [
+            "Toffoletto et al. (2007)"
+        ],
+        "parents": ["IMPACT 2002+"]
+    },
+    {
+        "name": "ReCiPe 2008",
+        "release year": 2008,
+        "origin": "Netherlands",
+        "publications": [
+            "Goedkoop et al. (2009)",
+            "Goedkoop et al. (2012)",
+            "Sleeswijk et al. (2008)"
+        ],
+        "website": "https://www.rivm.nl/en/life-cycle-assessment-lca/downloads",
+        "parents": [
+            "CML 2001",
+            "Eco-Indicator 99"
+        ]
+    },
+    {
+        "name": "NEEDS",
+        "release year": 2008
+    },
+    {
+        "name": "LIME 2.0",
+        "release year": 2010,
+        "origin": "Japan",
+        "publications": [
+            "Itsubo and Inaba (2012)"
+        ],
+        "parents": [
+            "LIME"
+        ]
+    },
+    {
+        "name": "TRACI 2.0",
+        "release year": 2011,
+        "origin": "USA",
+        "publications": [
+            "Bare 2011"
+        ]
+    },
+    {
+        "name": "ILCD",
+        "release year": 2011,
+        "origin": "Europe"
+    },
+    {
+        "name": "EcoScarcity 2013",
+        "synonyms": [
+            "Eco-Factors 2013"
+        ],
+        "release year": 2013,
+        "origin": "Switzerland",
+        "parents": [
+            "EcoScarcity 2006"
+        ]
+    },
+    {
+        "name": "EPS 2015",
+        "release year": 2015,
+        "origin": "Sweden",
+        "parents": [
+            "EPS 2000"
+        ],
+        "website": "https://www.ivl.se/eps"
+    },
+    {
+        "name": "ReCiPe 2016",
+        "release year": 2016,
+        "origin": "Netherlands",
+        "publications": [
+            "Huijbregts et al. (2016)"
+        ],
+        "website": "https://www.rivm.nl/en/life-cycle-assessment-lca/downloads",
+        "parents": [
+            "ReCiPe 2008"
+        ]
+    },
+    {
+        "name": "LIME 3.0",
+        "release year": 2012,
+        "origin": "Japan",
+        "parents": [
+            "LIME 2.0"
+        ],
+        "website": "https://lca-forum.org/english/lime/"
+    },
+    {
+        "name": "LC-IMPACT",
+        "release year": 2012,
+        "website": "https://lc-impact.eu/",
+        "publications": [
+            "Verones et al. (2020)"
+        ],
+        "origin": "Europe",
+        "parents": [
+            "ReCiPe 2008",
+            "CML 2001"
+        ]
+    },
+    {
+        "name": "PEF 2.0",
+        "release year": 2017,
+        "origin": "Europe",
+        "parents": [
+            "ILCD"
+        ]
+    },
+    {
+        "name": "IMPACT World+",
+        "release year": 2019,
+        "origin": "World",
+        "publications": [
+            "Bulle et al. (2019)"
+        ],
+        "website": "http://www.impactworldplus.org",
+        "parents": [
+            "EDIP 2003",
+            "IMPACT 2002+",
+            "LUCAS"
+        ]
+    }
+]
