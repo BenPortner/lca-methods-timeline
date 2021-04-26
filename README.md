@@ -29,9 +29,9 @@ In the main folder:
 - previous methods borrowed from (parents).
 
 In the `visualization` folder:
-- `timeline_interactive.py`: a python script, which reads the data, creates a timeline using plotly and exports it as a .html file `timeline.html` 
-- `timeline.html` an interactive html document, showing the timelien of lca methods. When hovering over individual methods, additional data is shown in tooltips. The Graph can be panned, zoomed or exported as an image file
-- `timeline.png` exported image file
+- `timeline_interactive.py`: a python script, which reads the data, creates a timeline using plotly and exports it as a .html file.
+- `timeline.html` an interactive html document, showing the timeline. When hovering over individual methods, additional data is displayed via tooltips. The Graph can be panned, zoomed or exported as an image file.
+- `timeline.png` the exported image file.
 
 ## License
 
